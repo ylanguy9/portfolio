@@ -19,7 +19,7 @@ function Contact() {
             type="text"
             name="email"
             id="email"
-            placeholder="Email"
+            placeholder="Carambar"
             required
           />
         </div>
