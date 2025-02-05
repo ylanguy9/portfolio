@@ -13,13 +13,13 @@ function Contact() {
         </div>
         <div className="formGroup">
           <label htmlFor="email" hidden>
-            Carambar
+            Email
           </label>
           <input
             type="text"
             name="email"
             id="email"
-            placeholder="Carambar"
+            placeholder="Email"
             required
           />
         </div>
